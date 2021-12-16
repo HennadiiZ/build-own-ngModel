@@ -1,0 +1,14 @@
+.switch__block{
+    display: block;
+}
+.switch__block button{
+    padding: .5rem 1rem;
+    font-size: 1rem;
+    color: #fff;
+    background: red;
+    border: none;
+    outline: none;
+}
+.switch__block button.active{
+    background: green;
+}
